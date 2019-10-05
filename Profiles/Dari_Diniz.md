@@ -14,14 +14,14 @@ UPE, estudante
 UPE, Engenharia de Controle e Automação, nono periodo
 
 ### Interesses
-- Coisa que eu gosto 1
-- Coisa que eu gosto 2
-- Coisa que eu gosto 3
+- Religiao
+- Livros
+- Filmes/Series/Animes
+- Jogos
 
 
 ### Projects
-- [Projeto 1](GitHub Link) descrição
-- [Projeto 2](GitHub Link) descrição
+- [Hacktoberfest for Women 2019](https://github.com/DariDiniz/hacktoberfest-for-women-2019) Projeto para contribuir com open-source
 
 ### Meu GitHub
-[Nome do GitHub](GitHub Link)
+[DariDiniz](https://github.com/DariDiniz)
