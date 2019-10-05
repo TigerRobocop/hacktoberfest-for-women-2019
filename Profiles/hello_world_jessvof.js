@@ -1,5 +1,5 @@
 // LANGUAGE: Javascript
-// AUTHOR: Jessica V. O. Fernandes
+// AUTHOR: Jessica Viviane de Oliveira Fernandes
 // GITHUB: https://github.com/jessvof
 
 console.log('Hello World!');
