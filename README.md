@@ -16,7 +16,7 @@ git clone <link-https-do-repo>
 
 Crie uma branch para cada desafio
 ```
-git branch -b <nome-da-nova-branch>
+git checkout -b <nome-da-nova-branch>
 ```
 
 ### 1. Crie um arquivo de perfil no diretório Profiles
