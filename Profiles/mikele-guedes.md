@@ -9,7 +9,7 @@ Recife, Pernambuco, Brasil
 
 ### Ocupação
 Accenture, Arquiteta de integração
-
+ 
 ### Formação
 Técnico em Desenvolvimento Web pelo IFPE
 Técnologo em Análise e desenvolvimento de sistemas pelo IFPE (em andamento)
