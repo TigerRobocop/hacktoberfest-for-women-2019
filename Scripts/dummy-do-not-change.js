@@ -1,5 +1,5 @@
 // LANGUAGE: Javascript
-// AUTHOR: Liv Souza
-// GITHUB: https://github.com/TigerRobocop
+// AUTHOR: Thaís Neves
+// GITHUB: https://github.com/thaisnevest
 
 console.log('Hello World!');
