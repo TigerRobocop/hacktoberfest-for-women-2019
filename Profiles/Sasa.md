@@ -1,22 +1,22 @@
 ﻿# Nome
-Meu Nome
+Sara 
  
 # Email
-meu-email@email.com
+sarasales17062000@gmail.com
 
 ### Onde moro
-Cidade, estado, país
+São lourenço, Pernambuco, Brasil
 
 ### Ocupação
-Onde trabalho, nome do cargo 
+Estudante
 
 ### Formação
-Faculdade, curso, etc
+-
 
 ### Interesses
-- Coisa que eu gosto 1
-- Coisa que eu gosto 2
-- Coisa que eu gosto 3
+- Asssistir documentários
+- Dançar
+- Sair com os amigos
 
 
 ### Projects
@@ -24,4 +24,4 @@ Faculdade, curso, etc
 - [Projeto 2](GitHub Link) descrição
 
 ### Meu GitHub
-[Nome do GitHub](GitHub Link)
+[saracristinas](https://github.com/saracristinas)
