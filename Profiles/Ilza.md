@@ -20,8 +20,8 @@ Uninassau, ADS, 3º período
 
 
 ### Projects
-- [Projeto 1](GitHub Link) descrição
-- [Projeto 2](GitHub Link) descrição
+- [Projeto 1](https://github.com/ilzinha/womendevprojects) Réplica do site da Women Who Code
+
 
 ### Meu GitHub
-[Nome do GitHub](GitHub Link)
+[Ilzinha](https://github.com/ilzinha)
