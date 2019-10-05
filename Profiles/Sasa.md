@@ -1,11 +1,11 @@
 ﻿# Nome
-Sara 
+Sara Cristina
  
 # Email
 sarasales17062000@gmail.com
 
 ### Onde moro
-São lourenço, Pernambuco, Brasil
+São lourenço, Pernambuco, Brasil 
 
 ### Ocupação
 Estudante
