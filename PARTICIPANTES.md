@@ -1,4 +1,4 @@
-#### Nome: [Liv Souza](https://github.com/TigerRobocop/)
+#### Nome: [Thaís Neves](https://github.com/thaisnevest/)
 - Onde moro: Piedade, Jaboatão dos Guararapes - PE
-- Bio: Engenheira de Software no CESAR e APX pela comunidade WWC
-- GitHub: [TigerRobocop](https://github.com/TigerRobocop/)
+- Bio: Estudante de engenharia eletrônica 
+- GitHub: [thaisnevest](https://github.com/thaisnevest/)
