@@ -1,27 +1,27 @@
 # Nome
-Meu Nome
+Shirleide F. Silva
 
 # Email
-meu-email@email.com
+shirleidevips@gmail.com
 
 ### Onde moro
-Cidade, estado, país
+Camela - Ipojuca, PE, Brazil
 
 ### Ocupação
-Onde trabalho, nome do cargo 
+Accenture, Analista Técnica back-end
 
 ### Formação
-Faculdade, curso, etc
+Estácio, Análise e Desenvolvimento de Sistemas, 4º Período
 
 ### Interesses
-- Coisa que eu gosto 1
-- Coisa que eu gosto 2
-- Coisa que eu gosto 3
+- Rir
+- Comida
+- Dormir
 
 
 ### Projects
-- [Projeto 1](GitHub Link) descrição
-- [Projeto 2](GitHub Link) descrição
+- [Hacktober 2019](https://github.com/shirleide/hacktoberfest-for-women-2019) Evento sobre Git, em Recife, edição só para mulheres.
+
 
 ### Meu GitHub
-[Nome do GitHub](GitHub Link)
+[shirleide](https://github.com/shirleide)
