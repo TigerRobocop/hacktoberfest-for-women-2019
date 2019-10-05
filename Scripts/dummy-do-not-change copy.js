@@ -1,5 +1,5 @@
 // LANGUAGE: Javascript
-// AUTHOR: Liv Souza
+// AUTHOR: Keila
 // GITHUB: https://github.com/keilavg
 
 console.log('Hello World!');
