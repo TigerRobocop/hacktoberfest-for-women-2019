@@ -63,7 +63,7 @@ Adicione um arquivo `hello_world_SEU_NOME.js` no diretório `Scripts`, siga o ex
 console.log('Hello World!');
 ```
 
-### 3. Adicione seu nome no arquivo PARTICIPANTES.md
+### 3. Adicione seu nome no arquivo `PARTICIPANTES.md`
 
 Adicione seu nome na lista `PARTICIPANTES.md` usando a seguinte convenção:
 
