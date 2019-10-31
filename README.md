@@ -15,6 +15,7 @@ git clone <link-https-do-repo>
 ## Escolha UM dos desafios
 
 # ATENÇÃO! Crie uma branch para cada desafio! Um Pull request para cada desafio!
+## Dica: certifique-se que esteja na branch `master` pra cada vez que for criar uma branch nova ;)
 ```
 git checkout -b <nome-da-nova-branch>
 ```
