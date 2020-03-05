@@ -68,7 +68,7 @@ Siga o exemplo:
 console.log('Hello World!');
 ```
 
-### 3. Adicione seu nome no arquivo PARTICIPANTES.md
+### 3. Adicione seu nome no arquivo `PARTICIPANTES.md`
 
 Adicione seu nome no arquivo `PARTICIPANTES.md`, copie o modelo existente, cole logo abaixo no mesmo arquivo, e adicione as suas informações, usando a seguinte convenção:
 
