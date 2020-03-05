@@ -1,27 +1,25 @@
 # Nome
-Meu Nome
+Thaís Neves
 
 # Email
-meu-email@email.com
+neves.thais@hotmail.com
 
 ### Onde moro
-Cidade, estado, país
+Jaboatão dos Guararapes, Pernamabuco, Brasil
 
 ### Ocupação
-Onde trabalho, nome do cargo 
+Estudante, UFPE 
 
 ### Formação
-Faculdade, curso, etc
+Universidade Federal de Pernambuco, Engenharia Eletrônica
 
 ### Interesses
-- Coisa que eu gosto 1
-- Coisa que eu gosto 2
-- Coisa que eu gosto 3
-
+- Gatos
+- Música
+- Arte
 
 ### Projects
-- [Projeto 1](GitHub Link) descrição
-- [Projeto 2](GitHub Link) descrição
+- https://github.com/thaisnevest/hacktoberfest-for-women-2019
 
 ### Meu GitHub
-[Nome do GitHub](GitHub Link)
+https://github.com/thaisnevest
